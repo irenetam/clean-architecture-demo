@@ -1,0 +1,93 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E10CB456-CAD6-46F9-9474-C65CBDFF6C62}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{B56FFA7C-F122-4D27-9A1A-90D6499BD8C7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{169AA0CD-70DA-485C-AD06-936005504492}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{5342E6FB-BEE9-441B-9A3D-968A7F1E5347}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{02C817C6-5E6B-4788-8784-3EE7017A9727}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{F6EE0A17-2692-4A7B-9F38-849961211570}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicketManagement.Domain", "TicketManagement.Domain\TicketManagement.Domain.csproj", "{32E8ABED-BECE-4598-BB49-E99EC16736B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicketManagement.Application", "TicketManagement.Application\TicketManagement.Application.csproj", "{6FBA81C9-2730-4DC6-B931-C3583F2F5642}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicketManagement.Persistence", "TicketManagement.Persistence\TicketManagement.Persistence.csproj", "{98686906-4446-45FA-8630-7C87CFB1759A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicketManagement.Infrastructure", "TicketManagement.Infrastructure\TicketManagement.Infrastructure.csproj", "{F15721FD-41F5-4FED-9B38-0B2327D0856D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicketManagement.Api", "TicketManagement.Api\TicketManagement.Api.csproj", "{BFC01962-2021-4904-91D4-9212A250F024}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicketManagement.Application.UnitTests", "TicketManagement.Application.UnitTests\TicketManagement.Application.UnitTests.csproj", "{7E615640-DFB4-4069-9F38-B659EA02CC03}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicketManagement.Identity", "TicketManagement.Identity\TicketManagement.Identity.csproj", "{6E36F4BC-8987-4DF0-B740-94E3CEE62F7E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicketManagement.App", "TicketManagement.App\TicketManagement.App.csproj", "{F74FEE14-85FE-40E4-A44D-FB38495E6069}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32E8ABED-BECE-4598-BB49-E99EC16736B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32E8ABED-BECE-4598-BB49-E99EC16736B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32E8ABED-BECE-4598-BB49-E99EC16736B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32E8ABED-BECE-4598-BB49-E99EC16736B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FBA81C9-2730-4DC6-B931-C3583F2F5642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FBA81C9-2730-4DC6-B931-C3583F2F5642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FBA81C9-2730-4DC6-B931-C3583F2F5642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FBA81C9-2730-4DC6-B931-C3583F2F5642}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98686906-4446-45FA-8630-7C87CFB1759A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98686906-4446-45FA-8630-7C87CFB1759A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98686906-4446-45FA-8630-7C87CFB1759A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98686906-4446-45FA-8630-7C87CFB1759A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F15721FD-41F5-4FED-9B38-0B2327D0856D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F15721FD-41F5-4FED-9B38-0B2327D0856D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F15721FD-41F5-4FED-9B38-0B2327D0856D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F15721FD-41F5-4FED-9B38-0B2327D0856D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFC01962-2021-4904-91D4-9212A250F024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC01962-2021-4904-91D4-9212A250F024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC01962-2021-4904-91D4-9212A250F024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC01962-2021-4904-91D4-9212A250F024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E615640-DFB4-4069-9F38-B659EA02CC03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E615640-DFB4-4069-9F38-B659EA02CC03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E615640-DFB4-4069-9F38-B659EA02CC03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E615640-DFB4-4069-9F38-B659EA02CC03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E36F4BC-8987-4DF0-B740-94E3CEE62F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E36F4BC-8987-4DF0-B740-94E3CEE62F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E36F4BC-8987-4DF0-B740-94E3CEE62F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E36F4BC-8987-4DF0-B740-94E3CEE62F7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F74FEE14-85FE-40E4-A44D-FB38495E6069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F74FEE14-85FE-40E4-A44D-FB38495E6069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F74FEE14-85FE-40E4-A44D-FB38495E6069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F74FEE14-85FE-40E4-A44D-FB38495E6069}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{169AA0CD-70DA-485C-AD06-936005504492} = {E10CB456-CAD6-46F9-9474-C65CBDFF6C62}
+		{5342E6FB-BEE9-441B-9A3D-968A7F1E5347} = {E10CB456-CAD6-46F9-9474-C65CBDFF6C62}
+		{02C817C6-5E6B-4788-8784-3EE7017A9727} = {E10CB456-CAD6-46F9-9474-C65CBDFF6C62}
+		{F6EE0A17-2692-4A7B-9F38-849961211570} = {E10CB456-CAD6-46F9-9474-C65CBDFF6C62}
+		{32E8ABED-BECE-4598-BB49-E99EC16736B3} = {5342E6FB-BEE9-441B-9A3D-968A7F1E5347}
+		{6FBA81C9-2730-4DC6-B931-C3583F2F5642} = {5342E6FB-BEE9-441B-9A3D-968A7F1E5347}
+		{98686906-4446-45FA-8630-7C87CFB1759A} = {02C817C6-5E6B-4788-8784-3EE7017A9727}
+		{F15721FD-41F5-4FED-9B38-0B2327D0856D} = {02C817C6-5E6B-4788-8784-3EE7017A9727}
+		{BFC01962-2021-4904-91D4-9212A250F024} = {169AA0CD-70DA-485C-AD06-936005504492}
+		{7E615640-DFB4-4069-9F38-B659EA02CC03} = {B56FFA7C-F122-4D27-9A1A-90D6499BD8C7}
+		{6E36F4BC-8987-4DF0-B740-94E3CEE62F7E} = {02C817C6-5E6B-4788-8784-3EE7017A9727}
+		{F74FEE14-85FE-40E4-A44D-FB38495E6069} = {F6EE0A17-2692-4A7B-9F38-849961211570}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {634181FA-0CDE-4F1A-B5C2-B618493A0E48}
+	EndGlobalSection
+EndGlobal

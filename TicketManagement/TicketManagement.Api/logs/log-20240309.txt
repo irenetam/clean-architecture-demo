@@ -1,0 +1,52 @@
+2024-03-09 22:20:49.317 +07:00 [INF] Now listening on: https://localhost:7200
+2024-03-09 22:20:49.350 +07:00 [INF] Now listening on: http://localhost:5035
+2024-03-09 22:20:49.354 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 22:20:49.355 +07:00 [INF] Hosting environment: Development
+2024-03-09 22:20:49.357 +07:00 [INF] Content root path: D:\Research\Net Core\TicketManagement\TicketManagement.Api\
+2024-03-09 22:21:01.234 +07:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-03-09 22:21:01.240 +07:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-03-09 22:21:30.439 +07:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-03-09 22:21:30.442 +07:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-03-09 22:37:46.950 +07:00 [INF] Now listening on: https://localhost:7200
+2024-03-09 22:37:46.996 +07:00 [INF] Now listening on: http://localhost:5035
+2024-03-09 22:37:47.002 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 22:37:47.004 +07:00 [INF] Hosting environment: Development
+2024-03-09 22:37:47.006 +07:00 [INF] Content root path: D:\Research\Net Core\TicketManagement\TicketManagement.Api\
+2024-03-09 22:38:14.794 +07:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-03-09 22:38:14.800 +07:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-03-09 22:42:44.309 +07:00 [INF] Now listening on: https://localhost:7200
+2024-03-09 22:42:44.371 +07:00 [INF] Now listening on: http://localhost:5035
+2024-03-09 22:42:44.378 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 22:42:44.380 +07:00 [INF] Hosting environment: Development
+2024-03-09 22:42:44.382 +07:00 [INF] Content root path: D:\Research\Net Core\TicketManagement\TicketManagement.Api\
+2024-03-09 22:49:42.257 +07:00 [INF] Now listening on: https://localhost:7200
+2024-03-09 22:49:42.302 +07:00 [INF] Now listening on: http://localhost:5035
+2024-03-09 22:49:42.309 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 22:49:42.311 +07:00 [INF] Hosting environment: Development
+2024-03-09 22:49:42.312 +07:00 [INF] Content root path: D:\Research\Net Core\TicketManagement\TicketManagement.Api\
+2024-03-09 23:02:47.414 +07:00 [INF] Now listening on: https://localhost:7200
+2024-03-09 23:02:47.475 +07:00 [INF] Now listening on: http://localhost:5035
+2024-03-09 23:02:47.484 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 23:02:47.486 +07:00 [INF] Hosting environment: Development
+2024-03-09 23:02:47.488 +07:00 [INF] Content root path: D:\Research\Net Core\TicketManagement\TicketManagement.Api\
+2024-03-09 23:04:24.155 +07:00 [INF] Now listening on: https://localhost:7200
+2024-03-09 23:04:24.188 +07:00 [INF] Now listening on: http://localhost:5035
+2024-03-09 23:04:24.193 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 23:04:24.194 +07:00 [INF] Hosting environment: Development
+2024-03-09 23:04:24.195 +07:00 [INF] Content root path: D:\Research\Net Core\TicketManagement\TicketManagement.Api\
+2024-03-09 23:04:51.042 +07:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-03-09 23:04:51.046 +07:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-03-09 23:06:17.758 +07:00 [INF] Now listening on: https://localhost:7200
+2024-03-09 23:06:17.802 +07:00 [INF] Now listening on: http://localhost:5035
+2024-03-09 23:06:17.809 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 23:06:17.811 +07:00 [INF] Hosting environment: Development
+2024-03-09 23:06:17.812 +07:00 [INF] Content root path: D:\Research\Net Core\TicketManagement\TicketManagement.Api\
+2024-03-09 23:06:57.845 +07:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-03-09 23:06:57.850 +07:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-03-09 23:09:49.273 +07:00 [INF] Now listening on: https://localhost:7200
+2024-03-09 23:09:49.313 +07:00 [INF] Now listening on: http://localhost:5035
+2024-03-09 23:09:49.318 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 23:09:49.320 +07:00 [INF] Hosting environment: Development
+2024-03-09 23:09:49.321 +07:00 [INF] Content root path: D:\Research\Net Core\TicketManagement\TicketManagement.Api\
+2024-03-09 23:10:08.138 +07:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-03-09 23:10:08.143 +07:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.

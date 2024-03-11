@@ -1,0 +1,17 @@
+/TicketManagement/TicketManagement.Api/bin
+/TicketManagement/TicketManagement.Api/obj
+/TicketManagement/TicketManagement.App/bin
+/TicketManagement/TicketManagement.App/obj
+/TicketManagement/TicketManagement.Application/bin
+/TicketManagement/TicketManagement.Application/obj
+/TicketManagement/TicketManagement.Application.UnitTests/bin
+/TicketManagement/TicketManagement.Application.UnitTests/obj
+/TicketManagement/TicketManagement.Domain/bin
+/TicketManagement/TicketManagement.Domain/obj
+/TicketManagement/TicketManagement.Identity/bin
+/TicketManagement/TicketManagement.Identity/obj
+/TicketManagement/TicketManagement.Infrastructure/bin
+/TicketManagement/TicketManagement.Infrastructure/obj
+/TicketManagement/TicketManagement.Persistence/bin
+/TicketManagement/TicketManagement.Persistence/obj
+/TicketManagement/.vs
